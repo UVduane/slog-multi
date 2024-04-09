@@ -4,3 +4,5 @@ github.com/samber/slog-multi v1.0.0 h1:snvP/P5GLQ8TQh5WSqdRaxDANW8AAA3egwEoytLsq
 github.com/samber/slog-multi v1.0.0/go.mod h1:uLAvHpGqbYgX4FSL0p1ZwoLuveIAJvBECtE07XmYvFo=
 golang.org/x/exp v0.0.0-20230809150735-7b3493d9a819 h1:EDuYyU/MkFXllv9QF9819VlI9a4tzGuCbhG0ExK9o1U=
 golang.org/x/exp v0.0.0-20230809150735-7b3493d9a819/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
+golang.org/x/exp v0.0.0-20240409090435-93d18d7e34b8 h1:ESSUROHIBHg7USnszlcdmjBEwdMj9VUvU+OPk4yl2mc=
+golang.org/x/exp v0.0.0-20240409090435-93d18d7e34b8/go.mod h1:/lliqkxwWAhPjf5oSOIJup2XcqJaw8RGS6k3TGEc7GI=

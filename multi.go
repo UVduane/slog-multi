@@ -3,7 +3,7 @@ package slogmulti
 import (
 	"context"
 
-	"log/slog"
+	"golang.org/x/exp/slog"
 
 	"github.com/samber/lo"
 )

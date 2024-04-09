@@ -3,7 +3,7 @@ package slogmulti
 import (
 	"context"
 
-	"log/slog"
+	"golang.org/x/exp/slog"
 )
 
 // NewWithAttrsInlineMiddleware is a shortcut to a middleware that implements only the `WithAttrs` method.

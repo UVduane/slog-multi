@@ -1,7 +1,7 @@
 package slogmulti
 
 import (
-	"log/slog"
+	"golang.org/x/exp/slog"
 )
 
 // Middleware defines the handler used by slog.Handler as return value.

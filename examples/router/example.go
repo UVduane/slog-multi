@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"log/slog"
+	"golang.org/x/exp/slog"
 
 	slogmulti "github.com/samber/slog-multi"
 	slogslack "github.com/samber/slog-slack"

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"log/slog"
+	"golang.org/x/exp/slog"
 
 	"github.com/samber/lo"
 )

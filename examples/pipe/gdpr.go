@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"log/slog"
+	"golang.org/x/exp/slog"
 
 	"github.com/samber/lo"
 	slogmulti "github.com/samber/slog-multi"

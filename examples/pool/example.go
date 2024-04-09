@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"log/slog"
+	"golang.org/x/exp/slog"
 
 	slogmulti "github.com/samber/slog-multi"
 )
