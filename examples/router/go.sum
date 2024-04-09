@@ -1,3 +1,7 @@
+github.com/UVDuane/slog-common v0.0.0-20240409153018-e1e94c185a37 h1:zxUd2JCpAPMQ+DtwpEBiDKQBsK6o79hsZXj7Fcku1/c=
+github.com/UVDuane/slog-common v0.0.0-20240409153018-e1e94c185a37/go.mod h1:CbFllM/bZcAMo4ozsymWCpKHUguOQ4Qey6y4nz8qzMY=
+github.com/UVDuane/slog-slack v0.0.0-20240409232923-ea36935b8d2d h1:3wpIKPDX3Qpcyvux4IRQlnjbQykbn+tXEf0vXBHt2RY=
+github.com/UVDuane/slog-slack v0.0.0-20240409232923-ea36935b8d2d/go.mod h1:uqtWqdp4eqntOjTyIgAZVpySjmZZRfr8Si3MdXtUhs4=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-test/deep v1.0.4 h1:u2CU3YKy9I2pmu9pX0eq50wCgjfGIt539SqR7FbHiho=

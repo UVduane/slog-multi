@@ -5,8 +5,8 @@ import (
 
 	"golang.org/x/exp/slog"
 
-	slogmulti "github.com/samber/slog-multi"
-	slogslack "github.com/samber/slog-slack"
+	slogmulti "github.com/UVDuane/slog-multi"
+	slogslack "github.com/UVDuane/slog-slack"
 )
 
 func recordMatchRegion(region string) func(ctx context.Context, r slog.Record) bool {

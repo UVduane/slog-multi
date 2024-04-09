@@ -6,8 +6,8 @@ import (
 
 	"golang.org/x/exp/slog"
 
+	slogmulti "github.com/UVDuane/slog-multi"
 	"github.com/samber/lo"
-	slogmulti "github.com/samber/slog-multi"
 )
 
 func NewGDPRMiddleware() slogmulti.Middleware {

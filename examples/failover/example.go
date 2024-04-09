@@ -7,7 +7,7 @@ import (
 
 	"golang.org/x/exp/slog"
 
-	slogmulti "github.com/samber/slog-multi"
+	slogmulti "github.com/UVDuane/slog-multi"
 )
 
 func main() {
